@@ -117,9 +117,9 @@ namespace ForumApi.Models
                 }
                 
             }catch(SqlException se){
-                    throw new Exception("Erro ao tentar ler a tabela usuário " + se.Message);
+                    throw new Exception("Erro ao tentar ler a tabela usuário ->" + se.Message);
             }catch(Exception ex){
-                    throw new Exception("Erro inesperado " + ex.Message);
+                    throw new Exception("Erro inesperado ->" + ex.Message);
             }finally{
                 con.Close();
             }
