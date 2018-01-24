@@ -12533,23 +12533,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\39554884893\\.nuget\\packages\\": {},
+    "C:\\Users\\33989106880\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\39554884893\\projetos\\ForumApi\\ForumApi.csproj",
+      "projectUniqueName": "C:\\Users\\33989106880\\Desktop\\ForumApi\\ForumApi.csproj",
       "projectName": "ForumApi",
-      "projectPath": "C:\\Users\\39554884893\\projetos\\ForumApi\\ForumApi.csproj",
-      "packagesPath": "C:\\Users\\39554884893\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\39554884893\\projetos\\ForumApi\\obj\\",
+      "projectPath": "C:\\Users\\33989106880\\Desktop\\ForumApi\\ForumApi.csproj",
+      "packagesPath": "C:\\Users\\33989106880\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\33989106880\\Desktop\\ForumApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\39554884893\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\33989106880\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

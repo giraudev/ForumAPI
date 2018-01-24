@@ -26,7 +26,7 @@ namespace ForumApi.Models
         /// </summary>
         /// <returns>Retorna uma string de conexão com o banco</returns>
         protected static string Caminho(){
-            return @"Data Source=.\SqlExpress;initial catalog=forum;user id=sa; password=senai@123";
+            return @"Data Source=.\SqlExpress;initial catalog=BancoForum;user id=sa; password=senai@123";
         }
 
     }
